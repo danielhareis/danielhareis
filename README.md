@@ -4,8 +4,7 @@
 - 📫 How to reach me: 
     Twitter - @danielhareis; 
  ✉ Email: danielhareis@gmail.com or danielhareis@usp.br
--  You also can find about my research on my Website: https://sites.google.com/view/danielhareis
--           
+-  You also can find about my research on my Website: https://sites.google.com/view/danielhareis   
 
 <!---
 danielhareis/danielhareis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
